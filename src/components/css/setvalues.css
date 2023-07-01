@@ -1,0 +1,64 @@
+/* Frame 5 */
+
+@import url("https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  width: 1417px;
+  height: 178px;
+  box-sizing: border-box;
+  background-color: rgba(231, 224, 224, 1);
+}
+.frame-24 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  height: 100%;
+  padding: 69px 336px 70px 978px;
+  box-sizing: border-box;
+  background-color: rgba(231, 224, 224, 1);
+}
+.frame-30 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+ 
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: rgba(14, 11, 11, 1);
+  width: 100%;
+}
+.send {
+  color: rgba(255, 255, 255, 1);
+  font-size: 30px;
+  line-height: 30px;
+  font-family: DM Sans, sans-serif;
+  font-weight: 700;
+}
+.text{
+  width:80%;
+  height:20px;
+  margin-top:30px;
+}
+#fileupload{
+  width:80%;
+  height:20px;
+  border: 1px solid black;
+  
+}
+.sendBtn{
+  margin-top: 5px;
+  color:aliceblue;
+  padding:3px
+}

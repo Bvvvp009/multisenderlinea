@@ -1,0 +1,82 @@
+/* Frame 22 */
+
+@import url("https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.frame-22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 1417px;
+  height: 100px;
+  padding: 20px 412px 20px 413px;
+  box-sizing: border-box;
+  background-color: rgba(231, 224, 224, 1);
+}
+.frame-26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  height: 100%;
+  padding: 20px 78px 19px 55px;
+  box-sizing: border-box;
+  margin-left: 20px;
+}
+.send {
+  color: rgb(17, 16, 16);
+  font-size: 30px;
+  line-height: 30px;
+  font-family: DM Sans, sans-serif;
+  font-weight: 700;
+}
+
+.frame-28 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: rgba(14, 11, 11, 1);
+}
+.ether {
+  color: rgba(255, 255, 255, 1);
+  font-size: 30px;
+  line-height: 30px;
+  font-family: DM Sans, sans-serif;
+  font-weight: 700;
+}
+
+.frame-29 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: rgba(14, 11, 11, 1);
+}
+.tokens {
+  color: rgba(255, 255, 255, 1);
+  font-size: 30px;
+  line-height: 30px;
+  font-family: DM Sans, sans-serif;
+  font-weight: 700;
+}
+
+button{
+  background-color: black;
+  padding-left: 10px;
+}
+
+input{
+  width:40%
+}

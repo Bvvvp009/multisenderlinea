@@ -1,0 +1,126 @@
+
+.App {
+  text-align: center;
+
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.dropdown-wrapper {
+  display: flex;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+div{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.setvalues{
+  margin-bottom: 10px;
+}
+
+.frame-5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.sendBtn{
+  margin-bottom: 2%;
+  padding: 0.5%;
+  font-size: large;
+  font-weight: bold;
+
+}
+.showResult{
+
+  margin-top: 1%;
+  margin-bottom: 10%;
+  padding-bottom: 3%;
+  max-height: max-content;
+  
+}
+.showResult div{
+
+  font-size: 1rem;
+
+}
+
+
+.image-container {
+
+  justify-content: center;
+  align-items: center;
+
+  margin-right: auto;
+  width: 100%;
+  height: 10%; /* Adjust this value as needed */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin-left:10%;
+ 
+  
+}
+
+.image-container img {
+  margin: 0 1%;
+  width: 2%;
+  float: left; /* Add some space between the images */
+}
+.frame28{
+display: flex;
+margin-right: 1%;
+margin-top: 2%;
+
+}
+button{
+  background-color: #050910;
+  color: aliceblue;
+  width: 10%;
+  padding: 3px;
+}
+
+input{
+  border: 1px solid black;
+}
+.connect-button{
+  width: fit-content;
+  padding: 5px;
+  margin: auto;
+}
